@@ -1,5 +1,5 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-1n4y7xnk0-DnLVTaN6U9xLU79H5Hi62w)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
@@ -46,7 +46,7 @@
 <kbd>[<img title="Dutch" alt="Dutch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/nl.svg" width="22">](translations/README.nl.md)</kbd>
 <kbd>[<img title="Norsk" alt="Norsk" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/no.svg" width="22">](translations/README.no.md)</kbd>
 <kbd>[<img title="नेपाली" alt="नेपाली" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/np.svg" width="15">](translations/README.np.md)</kbd>
-<kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](translations/README.tl.md)</kbd>
+<kbd>[<img title="Wikang Filipino" alt="Wikang Filipino" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ph.svg" width="22">](translations/README.fil.md)</kbd>
 <kbd>[<img title="English (Pirate)" alt="English (Pirate)" src="https://firstcontributions.github.io/assets/Readme/pirate.png" width="22">](translations/README.en-pirate.md)</kbd>
 <kbd>[<img title="اُاردو" alt="اردو" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pk.svg" width="22">](translations/README.ur.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](translations/README.pl.md)</kbd>
@@ -65,8 +65,9 @@
 <kbd>[<img title="Zulu (South Africa)" alt="Zulu (South Africa)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.zul.md)</kbd>
 <kbd>[<img title="Afrikaans (South Africa)" alt="Afrikaans (South Africa)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/za.svg" width="22">](translations/README.afk.md)</kbd>
 <kbd>[<img title="Igbo (Nigeria)" alt="Igbo (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.igb.md)</kbd>
-<kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.yor.md)</kbd>
-<kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22">](translations/README.hau.md)</kbd>
+<kbd>[<img title="Bambara (Mali)" alt="Bambara (Mali)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ml.svg" width="22">](translations/README.mli.md)</kbd>
+<kbd>[<img title="Hausa (Nigeria)" alt="Hausa (Nigeria)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Hausa_people.svg/1280px-Flag_of_the_Hausa_people.svg.png" width="22">](translations/README.hau.md)</kbd>
+<kbd>[<img title="Yoruba (Nigeria)" alt="Yoruba (Nigeria)" src="https://www.fotw.info/images/n/ng%7Deoyor.gif" width="22">](translations/README.yor.md)</kbd>
 <kbd>[<img title="Latvia" alt="Latvia" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/lv.svg" width="22">](translations/README.lv.md)</kbd>
 <kbd>[<img title="Suomeksi" alt="Suomeksi" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/fi.svg" width="22">](translations/README.fi.md)</kbd>
 <kbd>[<img title="Беларуская мова" alt="Беларуская мова" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/by.svg" width="22">](translations/README.by.md)</kbd>
@@ -204,7 +205,7 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
-You could join our slack team if you need any help or have any questions. [Join slack team](https://firstcontributors.slack.com/join/shared_invite/zt-29qhyr9lt-Bi7WLbgGIFqV7aCEG_grvg#/shared-invite/email).
+You could join our slack team if you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-2vqegkew0-ZuzGM1LO33C6Ts4nZyat1Q).
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
@@ -222,3 +223,5 @@ Now let's get you started with contributing to other projects. We've compiled a 
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
   </a>
 </p>
+
+
